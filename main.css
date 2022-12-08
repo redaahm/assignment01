@@ -1,0 +1,34 @@
+body{
+    background-color: #FFE3E1;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #F06292;
+}
+
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-size: 40px;
+    color: #B93160;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    font-size: 19px;
+    padding: 35px;
+    color: #FF577F;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #FF9494;
+}
+
+hr{
+    border: 1px solid #F10086;
+    width: 40%;
+    margin: 30px auto;
+}
